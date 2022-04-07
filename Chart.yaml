@@ -1,5 +1,5 @@
 apiVersion: v2
 appVersion: 1.0
 description: A generic application chart with one deployment
-name: webapp
+name: fastapi
 version: 1.0.0
